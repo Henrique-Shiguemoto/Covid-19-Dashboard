@@ -1,7 +1,3 @@
-# Verifique se o working directory está correto
-getwd()
-setwd("C:/dev/R/tcc/finalDesign")
-
 # Carregamento de pacotes necessários
 library(shiny)
 library(shinydashboard)
