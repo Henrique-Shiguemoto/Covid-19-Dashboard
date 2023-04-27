@@ -35,8 +35,8 @@ Here's a [video](https://youtu.be/1I6zEZJT7L0) of me running the program
 
 # Some Images
 
-![General Look into the Dataset](https://github.com/Henrique-Shiguemoto/Covid-19-Dashboard/tree/main/imgs/designFinal1.png)
+![General Look into the Dataset](/imgs/designFinal1.png)
 
-![New Covid-19 Cases Demonstration](https://github.com/Henrique-Shiguemoto/Covid-19-Dashboard/tree/main/imgs/designFinal6.png)
+![New Covid-19 Cases Demonstration](/imgs/designFinal6.png)
 
-![Comparison Tab Demonstration](https://github.com/Henrique-Shiguemoto/Covid-19-Dashboard/tree/main/imgs/designFinal7.png)
+![Comparison Tab Demonstration](/imgs/designFinal7.png)
