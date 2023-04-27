@@ -7,7 +7,7 @@ library(lubridate)
 
 shinyServer(function(input, output) {
   # Importação e sumarização do dataset
-  casosCovid <- import("casos_covid_maringa_dataEng.csv")
+  casosCovid <- import("casosCovid.csv")
   t1 <- casosCovid[, c("data", "confirmados")]
   t2 <- casosCovid[, c("data", "ativos")]
   t3 <- casosCovid[, c("data", "recuperados")]

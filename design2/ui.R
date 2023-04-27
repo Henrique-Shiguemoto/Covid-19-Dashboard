@@ -4,7 +4,7 @@ library(shinydashboard)
 library(rio)
 
 # Importação e sumarização do dataset
-casosCovid <- import("casos_covid_maringa.csv")
+casosCovid <- import("casosCovid.csv")
 summary(casosCovid)
 
 shinyUI(
