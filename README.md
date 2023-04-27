@@ -13,7 +13,7 @@ It is about the Covid-19 cases from 03-17-2020 to 09-05-2021 from Maringá city 
 
 The Usability Engineering activities (Jakob Nielsen, 1994) were used to develop the final design (from <code>finalDesign</code> folder)
 
-I'm not gonna get into too much of the design theory, but one of the activies is to practive what is called parallel design. This is about creating multiple designs for the product (a dashboard in this case). These parallel designs are the ones in the folders <code>design1</code>, <code>design2</code> and <code>design3</code>.
+I'm not gonna get into too much of the design theory, but one of the activies is to practice what is called parallel design. This is about creating multiple designs for the product (a dashboard in this case). These parallel designs are the ones in the folders <code>design1</code>, <code>design2</code> and <code>design3</code>.
 
 Through the analysis of these parallel designs, I decided to bring them all together in the final design (<code>finalDesign</code>).
 
