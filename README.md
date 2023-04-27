@@ -32,3 +32,11 @@ In RStudio, there should be a "Run App" button. Click that button and the dashbo
 # Example
 
 Here's a [video](https://youtu.be/1I6zEZJT7L0) of me running the program
+
+# Some Images
+
+![General Look into the Dataset]{imgs/designFinal1.png}
+
+![New Covid-19 Cases Demonstration]{imgs/designFinal6.png}
+
+![Comparison Tab Demonstration]{imgs/designFinal7.png}
