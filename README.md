@@ -21,7 +21,7 @@ Through the analysis of these parallel designs, I decided to bring them all toge
 
 This project requires the R Programming Language and RStudio environment installed to run the source code of the design folders you see in this repo. 
 
-Given the user has RStudio and R installed, this project needs to install a couple of packages first. Those would be <code>shiny</code>, <code>shinydashboard</code>, <code>rio</code>, <code>ggplot2</code> and <code>lubridate</code>. You can install them, in the RStudio Terminal, with the <code>install.packages(c("shiny", "shinydashboard", "rio", "ggplot2", "lubridate"))<\code> command.
+Given the user has RStudio and R installed, this project needs to install a couple of packages first. Those would be <code>shiny</code>, <code>shinydashboard</code>, <code>rio</code>, <code>ggplot2</code> and <code>lubridate</code>. You can install them, in the RStudio Terminal, with the <code>install.packages(c("shiny", "shinydashboard", "rio", "ggplot2", "lubridate"))</code> command.
 
 Open one of the design folders in RStudio and open the files <code>ui.R</code> and <code>server.R</code>.
 
